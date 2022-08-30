@@ -1,0 +1,116 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+    display: flex;
+}
+.left {
+    height: 750px;
+    width: 150px;
+    background-color: black;
+}
+.nav {
+    color: aliceblue;
+}
+.nav1 {
+    margin-left: 15px;
+    margin-bottom: 8px;
+    list-style: none;
+}
+.nav1:hover{
+    color: rgb(75, 139, 196);
+    cursor: pointer;
+}
+.right {
+    height: 750px;
+    width: 1768px;
+   
+}
+.anh1 {
+    width: 310px;
+    height: 122px;
+    margin-top: 20px;
+    margin-left: 579px;
+    margin-bottom: 30px;
+}
+.text1 {
+    width: 1110px;
+    height: 120px;
+    background-color:#EFEFEF;
+    margin-left: 179px;
+}
+.text11 {
+    font-size: 10px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.text12 {
+    font-size: 10px;
+    padding-left: 179px;
+    padding-right: 179px;
+    text-align: center;
+}
+.text2 {
+    display: flex;
+    margin-top: 40px;
+}
+.trai {
+    width: 336px;
+    height: 200px;
+    margin-left: 179px;
+    margin-right: 50px;
+}
+.giua {
+    width: 336px;
+    height: 200px;
+    margin-right: 50px;
+}
+.phai {
+    width: 336px;
+    height: 200px;
+}
+.ti {
+    font-size: 15px;
+}
+.flex1 {
+    display: flex;
+}
+.flex2 {
+    display: flex;
+}
+.flex3 {
+    display: flex;
+}
+.anha {
+    width: 90px;
+    height: 80px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.text21 {
+    margin-top: 5px;
+    font-size: 10px;
+}
+.textcuoi {
+    font-size: 10px;
+}
+.ke {
+    margin-top: 160px;
+    width: 100%;
+    height: 1px;
+    background-color: rgb(187, 191, 194);
+}
+
+.copyright {
+    margin-top: 15px;
+    margin-left: 50px;
+    color: rgb(187, 191, 194);
+}
